@@ -18,7 +18,7 @@
 1. استنساخ المستودع (إذا كان متاحًا) أو تحميل المشروع:
    إذا كان المشروع في مستودع Git، يمكنك استنساخه باستخدام الأمر:
    ```bash
-   git clone <https://github.com/Shawqi-Ye/-C-sharp-.git>
+   git clone <https://github.com/Shawqi-Ye/TimeADA.git>
    cd TimeAndDateApp
    ```
    وإلا، تأكد من أن لديك مجلد المشروع `TimeAndDateApp`.
