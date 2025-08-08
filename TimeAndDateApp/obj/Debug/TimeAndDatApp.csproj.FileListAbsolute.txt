@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\bin\Debug\TimeAndDatApp.exe.config
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\bin\Debug\TimeAndDatApp.exe
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\bin\Debug\TimeAndDatApp.pdb
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\obj\Debug\TimeAndDatApp.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\obj\Debug\TimeAndDatApp.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\obj\Debug\TimeAndDatApp.exe
-C:\Users\User\Desktop\TimeAndDateApp\TimeAndDatApp\TimeAndDatApp\obj\Debug\TimeAndDatApp.pdb
